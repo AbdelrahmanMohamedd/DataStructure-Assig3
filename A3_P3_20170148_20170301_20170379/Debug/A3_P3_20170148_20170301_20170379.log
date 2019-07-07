@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\mounir_study\second_term\data_structures\assignments\a3_20170148_20170301_20170379\a3_p3_20170148_20170301_20170379\stack.h(58): warning C4101: 'a': unreferenced local variable
+  d:\mounir_study\second_term\data_structures\assignments\a3_20170148_20170301_20170379\a3_p3_20170148_20170301_20170379\stack.h(53): note: while compiling class template member function 'int &Stack<int>::top(void)'
+  d:\mounir_study\second_term\data_structures\assignments\a3_20170148_20170301_20170379\a3_p3_20170148_20170301_20170379\main.cpp(11): note: see reference to function template instantiation 'int &Stack<int>::top(void)' being compiled
+  d:\mounir_study\second_term\data_structures\assignments\a3_20170148_20170301_20170379\a3_p3_20170148_20170301_20170379\main.cpp(7): note: see reference to class template instantiation 'Stack<int>' being compiled
+  A3_P3_20170148_20170301_20170379.vcxproj -> D:\Mounir_Study\Second_Term\Data_Structures\Assignments\A3_20170148_20170301_20170379\A3_P3_20170148_20170301_20170379\Debug\A3_P3_20170148_20170301_20170379.exe
+  A3_P3_20170148_20170301_20170379.vcxproj -> D:\Mounir_Study\Second_Term\Data_Structures\Assignments\A3_20170148_20170301_20170379\A3_P3_20170148_20170301_20170379\Debug\A3_P3_20170148_20170301_20170379.pdb (Partial PDB)

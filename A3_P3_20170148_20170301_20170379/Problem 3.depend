@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555332250 source:c:\users\ag\desktop\problem 3\src\stack.cpp
+	"Stack.h"
+
+1555333284 c:\users\ag\desktop\problem 3\include\stack.h
+	<iostream>
+
+1555333299 source:c:\users\ag\desktop\problem 3\main.cpp
+	<iostream>
+	"Stack.h"
+
